@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @FathurLaw
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Computer System Engineering
-- 💞️ I’m looking to collaborate on Cyber Security
+- Fathur 
+- Goals Oriented
+- Computer System Engineering
 
 <!---
 FathurLaw/FathurLaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
